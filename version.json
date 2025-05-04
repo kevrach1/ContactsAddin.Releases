@@ -1,4 +1,5 @@
 {
-    "Number":  10,
-    "Message":  "- Update LibreHardwareMonitorLib (X870 MSI support)\r\n- UI performance optimization\r\n- Allow the .NET 8 version ",
+    "Version":  "V10",
+    "Number":  "10.0.0",
+    "Changes":  "- Update .NET version to 4.8.1\r\n- Performance optimization\r\n- Updater added",
 }
