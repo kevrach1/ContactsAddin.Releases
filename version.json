@@ -1,5 +1,5 @@
 {
     "Version":  "V10",
     "Number":  "10.0.0",
-    "Changes":  "- Update .NET version to 4.8.1\r\n- Performance optimization\r\n- Updater added",
+    "Changes":  "- Update .NET version to 4.8.1\r\n- Performance optimization\r\n- Updater added"
 }
