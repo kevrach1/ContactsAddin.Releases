@@ -1,4 +1,4 @@
 {
-    "Version": "V4",
+    "Version": "V5",
     "Changes": "- Update .NET version to 4.8.1\r\n- Performance optimization\r\n- Updater added\r\n- Auto-install added"
 }
