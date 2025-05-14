@@ -1,4 +1,4 @@
 {
     "Version": "V3",
-    "Changes": "- Update .NET Framework to 4.8.1\r\n- Performance optimization\r\n- Updater added\r\n- Auto-install added\r\n- 'About'-Button added"
+    "Changes": "- Project now supports .NET Framework 4.8.1\r\n- Performance optimization\r\n- 'Auto-check for Updates' added\r\n- 'Auto-installer' added\r\n- 'About'-Button added"
 }
