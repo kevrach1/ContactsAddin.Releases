@@ -6,5 +6,7 @@
 
 <p align=center>This is the official repository for ContactsAddin which is allowing employees to import, update and delete all of their company-related contacts in Outlook.</p>
 
+## Information
+
 > [!NOTE]
 > View [version.json](https://github.com/kevrach1/ContactsAddin.Releases/blob/main/version.json) for latest change notes!
