@@ -1,4 +1,4 @@
-#
+#ContactsAddin by Kevin Rachbauer
 
 <p align=center>
   <img src="Images/Banner_540x177.png" width=600/>
