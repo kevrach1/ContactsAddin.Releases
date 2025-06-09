@@ -1,7 +1,7 @@
 # Contacts Addin
 
 <p align=center>
-  <img src="Images/Banner_540x177.png" width=300/>
+  <img src="Images/Banner_540x177.png" width=600/>
 </p>
 
 <p align=center>This is the release repository for ContactsAddin in Outlook, allowing employees to import, update and delete all of their company-related contacts in Windows.</p>
