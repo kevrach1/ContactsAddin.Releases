@@ -10,3 +10,10 @@
 
 > [!NOTE]
 > View [version.json](https://github.com/kevrach1/ContactsAddin.Releases/blob/main/version.json) for latest change notes!
+
+## Pre-requisites
+
++ .NET Framework 4.8.1
++ Visual Studio 2010 Tools for Office Runtime
++ Outlook x64 (preferably in Cache Mode -> Online mode does work but is way more slow)
++ Windows 10/11 x64
