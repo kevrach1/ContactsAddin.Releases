@@ -1,5 +1,3 @@
-# ContactsAddin for Outlook
-
 <p align=center>
   <img src="Images/Banner_540x177.png" width=600/>
 </p>
