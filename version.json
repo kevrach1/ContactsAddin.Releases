@@ -1,4 +1,4 @@
 {
-    "Version": "V2",
+    "Version": "V3",
     "Changes": "- Updated Project to .NET Framework 4.8.1\r\n- Code/Performance optimization\r\n- 'Auto-check for Updates' added\r\n- 'Auto-installer' added\r\n- 'About' added\r\n- 'Settings' added\r\n- Confirmation after Import/Update/Delete added\r\n- Settings are saved when Addin-Update is avail.\r\n- Help Tab added\r\n- Check if Contacts.csv file exists (this closes issue #1)\r\n- RepairContactsAddin.exe added"
 }
