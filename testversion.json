@@ -1,4 +1,4 @@
 {
     "Version": "B2",
-    "Changes": "- This is a Beta version of ContactsAddin\r\n- Addin is now being installed with 'Advanced Installer'\r\n- Addin Update process successfully tested and validated\r\n- More to come/test..."
+    "Changes": "- This is a Beta version of ContactsAddin\r\n- Addin is now being installed with 'Advanced Installer'\r\n- Addin Update process successfully tested and validated\r\n- Currently creating a new MessageBox Form to control it properly"
 }
