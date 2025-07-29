@@ -20,4 +20,4 @@
 
 + Check if Contacts.csv file exists [issue #1](https://github.com/kevrach1/ContactsAddin.Releases/issues/1)
 + Check if user.config exists on startup [issue #2](https://github.com/kevrach1/ContactsAddin.Releases/issues/2)
-+ If the Logfolder path is "C:\OLD\PATH" and you import a new config file with a different path then it does not move all the files from "C:\OLD\PATH" to "C:\IMPORTED\PATH\" [issue #3](https://github.com/kevrach1/ContactsAddin.Releases/issues/3)
++ If the Logfolder path is a different one after you have imported a config file then it won't move all files and folder from old to new [issue #3](https://github.com/kevrach1/ContactsAddin.Releases/issues/3)
