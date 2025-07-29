@@ -15,3 +15,8 @@
 + [Visual Studio 2010 Tools for Office Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=105522)
 + Outlook x64 (preferably in Cache-Mode -> Online-Mode does work but is way more slow)
 + Windows 10/11 x64
+
+## Issues / Bugs
+
++ Check if Contacts.csv file exists (this closes [issue #1](https://github.com/kevrach1/ContactsAddin.Releases/issues/1))
++ RepairContactsAddin.exe added (this closes [issue #2](https://github.com/kevrach1/ContactsAddin.Releases/issues/2))"
