@@ -13,7 +13,7 @@
 
 + [.NET Framework 4.8.1](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481)
 + [Visual Studio 2010 Tools for Office Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=105522)
-+ Outlook x64 (preferably in Cache-Mode -> Online-Mode does work but is way more slow)
++ Outlook x64 (preferably in Cache-Mode -> Online-Mode does work but is slower)
 + Windows 10/11 x64
 
 ## Issues / Bugs
