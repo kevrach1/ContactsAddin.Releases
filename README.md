@@ -2,7 +2,7 @@
   <img src="Images/Banner_540x177.png" width=600/>
 </p>
 
-<p align=center>This is the official repository for ContactsAddin which is allowing employees to import, update and delete all of their company-related contacts in Outlook.</p>
+<p align=center>This is the official repository for ContactsAddin, a tool that enables employees to seamlessly import, update, and delete their company-related contacts in Outlook and beyond.</p>
 
 ## Information
 
