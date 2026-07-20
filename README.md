@@ -26,6 +26,8 @@
 + Check if user.config exists on startup [issue #2](https://github.com/kevrach1/ContactsAddin.Releases/issues/2)
 + If the Logfolder path is a different one after you have imported a config file then it won't move all files and folder from old to new [issue #3](https://github.com/kevrach1/ContactsAddin.Releases/issues/3)
 + Create DoNotDisableAddinList registry key for each user under HKCU [issue #4](https://github.com/kevrach1/ContactsAddin.Releases/issues/4)
++ Move default log folder to %LOCALAPPDATA% [issue #5](https://github.com/kevrach1/ContactsAddin.Releases/issues/5)
++ Slow addin notification appearing on every Outlook startup [issue #6](https://github.com/kevrach1/ContactsAddin.Releases/issues/6)
 
 ## Support
 
